@@ -1,0 +1,17 @@
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\UserAPI.dll.config
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\UserAPI.dll
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\UserAPI.pdb
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\Newtonsoft.Json.dll
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\System.Web.Http.dll
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\Newtonsoft.Json.xml
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\System.Web.Http.xml
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\obj\Debug\UserAPI.csprojResolveAssemblyReference.cache
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\obj\Debug\UserAPI.csproj.CoreCompileInputs.cache
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\obj\Debug\UserAPI.dll
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\obj\Debug\UserAPI.pdb
