@@ -15,3 +15,7 @@ C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\
 C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\obj\Debug\UserAPI.csproj.CoreCompileInputs.cache
 C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\obj\Debug\UserAPI.dll
 C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\obj\Debug\UserAPI.pdb
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\EntityFramework.dll
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\EntityFramework.xml
+C:\Users\3127\Documents\Projects\StarterProject\Application.Api\UserAPI\UserAPI\bin\EntityFramework.SqlServer.xml
